@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:00D1FF,55:7C3AED,100:FF4D8D&height=260&section=header&text=Haipei%20%28Jeremy%29%20Zhong&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=34&desc=Data%20%26%20AI%20Engineer%20%7C%20Production%20Pipelines%20%C2%B7%20RAG%20%C2%B7%20Agents%20%C2%B7%20Evaluation&descAlignY=56&descSize=17)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:00D1FF,55:7C3AED,100:FF4D8D&height=260&section=header&text=Haipei%20%28Jeremy%29%20Zhong&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=34&desc=Data%20and%20AI%20Engineer%20%7C%20Production%20Pipelines%20%C2%B7%20RAG%20%C2%B7%20Agents%20%C2%B7%20Evaluation&descAlignY=56&descSize=17)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=700&color=00D1FF&center=true&vCenter=true&width=950&lines=I+build+systems+from+raw+data+to+reliable+AI+decisions;Production+Data+Workflows+%7C+RAG+%7C+Multi-Agent+Systems;Evaluation+first.+Evidence+grounded.+Automation+ready.)](https://git.io/typing-svg)
 
