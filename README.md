@@ -23,34 +23,29 @@
 
 ### Data pipelines. Retrieval systems. Agent loops. Evaluation that keeps AI honest.
 
+<br />
+
+<img src="https://img.shields.io/badge/Raw%20Data-020617?style=for-the-badge&logo=databricks&logoColor=FF4D8D" />
+<img src="https://img.shields.io/badge/Pipelines-0F172A?style=for-the-badge&logo=apacheairflow&logoColor=00D1FF" />
+<img src="https://img.shields.io/badge/Retrieval-111827?style=for-the-badge&logo=elasticsearch&logoColor=00BFB3" />
+<img src="https://img.shields.io/badge/Agents-1E1B4B?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Evaluation-3B0764?style=for-the-badge&logo=checkmarx&logoColor=FF4D8D" />
+<img src="https://img.shields.io/badge/Automation-020617?style=for-the-badge&logo=githubactions&logoColor=00D1FF" />
+
 </div>
 
-```text
-                raw data
-                   |
-                   v
-        +----------------------+
-        |  pipelines + quality |
-        +----------------------+
-                   |
-                   v
-        +----------------------+
-        | retrieval + evidence |
-        +----------------------+
-                   |
-                   v
-        +----------------------+
-        |   agents + tools     |
-        +----------------------+
-                   |
-                   v
-        +----------------------+
-        | evaluation + guards  |
-        +----------------------+
-                   |
-                   v
-              useful decisions
-```
+<br />
+
+<table>
+  <tr>
+    <td align="center" width="16%"><b>Raw Data</b><br />APIs, logs, metadata</td>
+    <td align="center" width="16%"><b>Pipelines</b><br />Airflow, SQL, Python</td>
+    <td align="center" width="16%"><b>Retrieval</b><br />Search, ranking, evidence</td>
+    <td align="center" width="16%"><b>Agents</b><br />Tools, memory, workflows</td>
+    <td align="center" width="16%"><b>Evaluation</b><br />Judges, gates, tests</td>
+    <td align="center" width="16%"><b>Automation</b><br />Monitoring, alerts, action</td>
+  </tr>
+</table>
 
 ## Impact Wall
 
@@ -139,28 +134,99 @@
 
 ## Systems Map
 
-```text
-DATA ENGINEERING
-Python | SQL | Airflow | REST APIs | MySQL | PostgreSQL | Spark | ETL/ELT
-
-AI ENGINEERING
-RAG | Hybrid Retrieval | Claim Verification | LLM-as-a-Judge | Agent Workflows
-
-CLOUD + INFRA
-GCP Cloud Run | Pub/Sub | Vertex AI | Elasticsearch | AWS EC2 | Docker | Linux
-
-ML + ANALYTICS
-scikit-learn | XGBoost | SHAP | Pandas | Feature Engineering | Model Evaluation
-```
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Data Engineering</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=FFD43B" />
+        <img src="https://img.shields.io/badge/SQL-020617?style=flat-square&logo=postgresql&logoColor=4169E1" />
+        <img src="https://img.shields.io/badge/Airflow-020617?style=flat-square&logo=apacheairflow&logoColor=017CEE" />
+        <img src="https://img.shields.io/badge/REST%20APIs-020617?style=flat-square&logo=fastapi&logoColor=00D1FF" />
+        <img src="https://img.shields.io/badge/Spark-020617?style=flat-square&logo=apachespark&logoColor=E25A1C" />
+      </p>
+      <p>Production workflows, API ingestion, SQL/Python pipelines, reconciliation, reporting, data quality, and operational monitoring.</p>
+    </td>
+    <td width="50%">
+      <h3>AI Engineering</h3>
+      <p>
+        <img src="https://img.shields.io/badge/RAG-020617?style=flat-square&logo=openai&logoColor=00D1FF" />
+        <img src="https://img.shields.io/badge/Retrieval-020617?style=flat-square&logo=elasticsearch&logoColor=00BFB3" />
+        <img src="https://img.shields.io/badge/Agents-020617?style=flat-square&logo=openai&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/Claim%20Grounding-020617?style=flat-square&logo=checkmarx&logoColor=FF4D8D" />
+      </p>
+      <p>Evidence-aware generation, hybrid retrieval, claim verification, LLM-as-a-judge, schema gates, retries, and evaluation loops.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Cloud and Automation</h3>
+      <p>
+        <img src="https://img.shields.io/badge/GCP-020617?style=flat-square&logo=googlecloud&logoColor=4285F4" />
+        <img src="https://img.shields.io/badge/Cloud%20Run-020617?style=flat-square&logo=googlecloud&logoColor=00D1FF" />
+        <img src="https://img.shields.io/badge/Pub%2FSub-020617?style=flat-square&logo=googlecloud&logoColor=FF4D8D" />
+        <img src="https://img.shields.io/badge/AWS%20EC2-020617?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+        <img src="https://img.shields.io/badge/Docker-020617?style=flat-square&logo=docker&logoColor=2496ED" />
+      </p>
+      <p>Scheduled jobs, serverless workflows, event-driven pipelines, deployment validation, alerts, and failure recovery.</p>
+    </td>
+    <td width="50%">
+      <h3>ML and Analytics</h3>
+      <p>
+        <img src="https://img.shields.io/badge/scikit--learn-020617?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+        <img src="https://img.shields.io/badge/XGBoost-020617?style=flat-square&logoColor=FF4D8D" />
+        <img src="https://img.shields.io/badge/SHAP-020617?style=flat-square&logoColor=00D1FF" />
+        <img src="https://img.shields.io/badge/Pandas-020617?style=flat-square&logo=pandas&logoColor=FFFFFF" />
+      </p>
+      <p>Feature engineering, model evaluation, explainability, ranking problems, segmentation, and production-style inference.</p>
+    </td>
+  </tr>
+</table>
 
 ## Selected Highlights
 
-| System | Signal |
-| --- | --- |
-| **Granite Telecommunications Capstone** | Built SQL/Python datasets from 5 production tables, 26K+ records, 132 features, XGBoost, SHAP, and production-style inference |
-| **Secidea Data Engineering Internship** | Built Scrapy-Redis ETL processing 1M+ records/day, improving crawl throughput by about 30% |
-| **Shoptaki Data Science Internship** | Built Zillow API to PostgreSQL pipeline and 3-model real-estate valuation ensemble with R2 = 0.90 |
-| **Kaggle Predict Future Sales** | Ranked Top 2%, #202 / 11,053 teams with lag, trend, price-elasticity features, and XGBoost |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Granite Telecommunications Capstone</h3>
+      <p>
+        <img src="https://img.shields.io/badge/26K%2B%20records-111827?style=flat-square&logoColor=00D1FF" />
+        <img src="https://img.shields.io/badge/132%20features-111827?style=flat-square&logoColor=FF4D8D" />
+        <img src="https://img.shields.io/badge/XGBoost%20%2B%20SHAP-111827?style=flat-square&logoColor=FFFFFF" />
+      </p>
+      <p>Built SQL/Python datasets from 5 production tables and supported production-style inference for Sales prioritization.</p>
+    </td>
+    <td width="50%">
+      <h3>Secidea Data Engineering Internship</h3>
+      <p>
+        <img src="https://img.shields.io/badge/1M%2B%20records%2Fday-111827?style=flat-square&logoColor=00D1FF" />
+        <img src="https://img.shields.io/badge/%2B30%25%20throughput-111827?style=flat-square&logoColor=FF4D8D" />
+        <img src="https://img.shields.io/badge/Scrapy--Redis%20ETL-111827?style=flat-square&logoColor=FFFFFF" />
+      </p>
+      <p>Built a distributed ETL pipeline with parallel extraction, optimized writes, and downstream account analytics.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Shoptaki Data Science Internship</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Zillow%20API-111827?style=flat-square&logoColor=00D1FF" />
+        <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" />
+        <img src="https://img.shields.io/badge/R2%20%3D%200.90-111827?style=flat-square&logoColor=FF4D8D" />
+      </p>
+      <p>Built a real-estate ingestion pipeline and 3-model valuation ensemble for property pricing and outlier detection.</p>
+    </td>
+    <td width="50%">
+      <h3>Kaggle Predict Future Sales</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Top%202%25-111827?style=flat-square&logo=kaggle&logoColor=20BEFF" />
+        <img src="https://img.shields.io/badge/%23202%20%2F%2011%2C053-111827?style=flat-square&logoColor=FF4D8D" />
+        <img src="https://img.shields.io/badge/XGBoost-111827?style=flat-square&logoColor=FFFFFF" />
+      </p>
+      <p>Engineered lag, trend, and price-elasticity features for a competitive time-series forecasting solution.</p>
+    </td>
+  </tr>
+</table>
 
 ## Tech Arsenal
 
@@ -185,13 +251,14 @@ scikit-learn | XGBoost | SHAP | Pandas | Feature Engineering | Model Evaluation
 
 ## Engineering Philosophy
 
-```text
-Observable > mysterious
-Reproducible > lucky
-Evidence-grounded > confident-sounding
-Evaluated > impressive demo
-Reliable > flashy
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/Observable-%3E%20mysterious-020617?style=for-the-badge&logo=opentelemetry&logoColor=00D1FF" />
+<img src="https://img.shields.io/badge/Reproducible-%3E%20lucky-020617?style=for-the-badge&logo=githubactions&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Evidence--grounded-%3E%20confident--sounding-020617?style=for-the-badge&logo=checkmarx&logoColor=FF4D8D" />
+<img src="https://img.shields.io/badge/Evaluated-%3E%20demo--only-020617?style=for-the-badge&logo=pytest&logoColor=00D1FF" />
+
+</div>
 
 I like AI systems that can say where their answer came from, what supports it, what does not, and when they should stop.
 
@@ -212,13 +279,15 @@ I like AI systems that can say where their answer came from, what supports it, w
 
 ## Focus Areas
 
-```text
-Reliable data workflows
-Evidence-grounded AI
-Retrieval and evaluation
-Agent loop reliability
-Cloud automation
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/Reliable%20data%20workflows-111827?style=for-the-badge&logo=apacheairflow&logoColor=00D1FF" />
+<img src="https://img.shields.io/badge/Evidence--grounded%20AI-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Retrieval%20and%20evaluation-111827?style=for-the-badge&logo=elasticsearch&logoColor=00BFB3" />
+<img src="https://img.shields.io/badge/Agent%20loop%20reliability-111827?style=for-the-badge&logo=checkmarx&logoColor=FF4D8D" />
+<img src="https://img.shields.io/badge/Cloud%20automation-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
+
+</div>
 
 <div align="center">
 
