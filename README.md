@@ -1,38 +1,34 @@
 <div align="center">
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:00D1FF,65:7C3AED,100:FF4D8D&height=250&section=header&text=Haipei%20%28Jeremy%29%20Zhong&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Data%20and%20AI%20Engineer%20%7C%20Pipelines%20%7C%20RAG%20%7C%20Agents%20%7C%20Evaluation&descAlignY=57&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:00D1FF,70:7C3AED,100:FF4D8D&height=245&section=header&text=Haipei%20%28Jeremy%29%20Zhong&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=Data%20and%20AI%20Engineer%20%7C%20Pipelines%20%7C%20RAG%20%7C%20Agents%20%7C%20Evaluation&descAlignY=58&descSize=17)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=700&color=00D1FF&center=true&vCenter=true&width=900&lines=%24+whoami;%24+cat+%2Fetc%2Fmotd;%24+.%2Fbuild_reliable_ai_systems.sh;Data+pipelines+%7C+Retrieval+%7C+Agents+%7C+Evaluation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=650&color=00D1FF&center=true&vCenter=true&width=900&lines=%24+whoami;%24+build+data_pipelines+--reliable;%24+evaluate+rag+--with-evidence;%24+ship+agent_systems+--with-guardrails)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/Dallas%20%2F%20Plano-TX-020617?style=for-the-badge&logo=googlemaps&logoColor=00D1FF" />
-<img src="https://img.shields.io/badge/CMU-Heinz%20College-020617?style=for-the-badge&logoColor=FFFFFF" />
+<br />
+
 <a href="mailto:haipeizhong@outlook.com"><img src="https://img.shields.io/badge/Email-haipeizhong%40outlook.com-020617?style=for-the-badge&logo=gmail&logoColor=FF4D8D" /></a>
 <a href="https://github.com/Jeremyt34t34t34"><img src="https://img.shields.io/badge/GitHub-Jeremyt34t34t34-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+<img src="https://img.shields.io/badge/Dallas%20%2F%20Plano-TX-020617?style=for-the-badge&logo=googlemaps&logoColor=00D1FF" />
+<img src="https://img.shields.io/badge/CMU-Heinz%20College-020617?style=for-the-badge&logoColor=FFFFFF" />
 
 </div>
 
 ---
 
-### `$ cat /etc/motd`
+### `$ whoami`
 
-```yaml
-name: Haipei "Jeremy" Zhong
-role: Data and AI Engineer
-mission: Build reliable systems from raw data to evidence-grounded AI decisions.
+> Data and AI Engineer building reliable systems from raw data to evidence-grounded AI decisions.
 
-current_stack:
-  - production data workflows
-  - RAG and hybrid retrieval
-  - agent systems and tool orchestration
-  - evaluation pipelines and claim grounding
-  - cloud automation and monitoring
+Most of my work lives at the intersection of production data engineering and applied AI: pipelines, retrieval, agents, evaluation, cloud automation, and monitoring.
 
-principle:
-  - observable over mysterious
-  - reproducible over lucky
-  - evidence-grounded over confident-sounding
-  - evaluated over demo-only
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/Production%20Data%20Workflows-020617?style=for-the-badge&logo=apacheairflow&logoColor=00D1FF" />
+<img src="https://img.shields.io/badge/Evidence--Aware%20RAG-020617?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Agent%20Reliability-020617?style=for-the-badge&logo=checkmarx&logoColor=FF4D8D" />
+<img src="https://img.shields.io/badge/Cloud%20Automation-020617?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
+
+</div>
 
 ---
 
@@ -40,111 +36,91 @@ principle:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/2%2C500%2B-Retail%20stores%20monitored-111827?style=for-the-badge&labelColor=020617&color=00D1FF" />
-<img src="https://img.shields.io/badge/10%2C000%2B-ESL%20devices%20tracked-111827?style=for-the-badge&labelColor=020617&color=7C3AED" />
-<img src="https://img.shields.io/badge/40--60%25-Manual%20validation%20reduced-111827?style=for-the-badge&labelColor=020617&color=FF4D8D" />
-<img src="https://img.shields.io/badge/70K-Biomedical%20metadata%20records-111827?style=for-the-badge&labelColor=020617&color=00D1FF" />
-<img src="https://img.shields.io/badge/10K-Preprints%20indexed-111827?style=for-the-badge&labelColor=020617&color=7C3AED" />
-<img src="https://img.shields.io/badge/2.2K-Preprint%20publication%20pairs-111827?style=for-the-badge&labelColor=020617&color=FF4D8D" />
-<img src="https://img.shields.io/badge/26K%2B-Granite%20customer%20records-111827?style=for-the-badge&labelColor=020617&color=00D1FF" />
-<img src="https://img.shields.io/badge/1M%2B%2Fday-ETL%20records%20processed-111827?style=for-the-badge&labelColor=020617&color=7C3AED" />
-<img src="https://img.shields.io/badge/Top%202%25-Kaggle%20ranking-111827?style=for-the-badge&labelColor=020617&color=FF4D8D" />
+<img src="https://img.shields.io/badge/2%2C500%2B-stores%20monitored-111827?style=for-the-badge&labelColor=020617&color=00D1FF" />
+<img src="https://img.shields.io/badge/10%2C000%2B-ESL%20devices-111827?style=for-the-badge&labelColor=020617&color=7C3AED" />
+<img src="https://img.shields.io/badge/40--60%25-less%20manual%20validation-111827?style=for-the-badge&labelColor=020617&color=FF4D8D" />
+<img src="https://img.shields.io/badge/70K-biomedical%20metadata%20records-111827?style=for-the-badge&labelColor=020617&color=00BFB3" />
+<img src="https://img.shields.io/badge/10K-preprints%20indexed-111827?style=for-the-badge&labelColor=020617&color=7C3AED" />
+<img src="https://img.shields.io/badge/2.2K-preprint%20publication%20pairs-111827?style=for-the-badge&labelColor=020617&color=FF4D8D" />
+<img src="https://img.shields.io/badge/26K%2B-customer%20records-111827?style=for-the-badge&labelColor=020617&color=00D1FF" />
+<img src="https://img.shields.io/badge/1M%2B%2Fday-ETL%20records-111827?style=for-the-badge&labelColor=020617&color=7C3AED" />
+<img src="https://img.shields.io/badge/Top%202%25-Kaggle-111827?style=for-the-badge&labelColor=020617&color=FF4D8D" />
 
 </div>
 
 ---
 
-### `$ ./run_pipeline.sh --from raw_data --to reliable_ai`
+### `$ ./pipeline --from raw_data --to reliable_ai`
 
-```mermaid
-flowchart LR
-    A[Raw Data] --> B[Python and SQL Pipelines]
-    B --> C[Quality Checks and Monitoring]
-    C --> D[Retrieval and Evidence]
-    D --> E[RAG and Agent Workflows]
-    E --> F[Evaluation and Guardrails]
-    F --> G[Useful Decisions]
+<div align="center">
 
-    style A fill:#020617,stroke:#00D1FF,color:#FFFFFF
-    style B fill:#0F172A,stroke:#00D1FF,color:#FFFFFF
-    style C fill:#111827,stroke:#7C3AED,color:#FFFFFF
-    style D fill:#111827,stroke:#00BFB3,color:#FFFFFF
-    style E fill:#1E1B4B,stroke:#FF4D8D,color:#FFFFFF
-    style F fill:#3B0764,stroke:#FF4D8D,color:#FFFFFF
-    style G fill:#020617,stroke:#FFFFFF,color:#FFFFFF
-```
+<img src="https://img.shields.io/badge/Raw%20Data-020617?style=for-the-badge&logo=databricks&logoColor=FF4D8D" />
+<img src="https://img.shields.io/badge/Pipelines-0F172A?style=for-the-badge&logo=apacheairflow&logoColor=00D1FF" />
+<img src="https://img.shields.io/badge/Quality%20Checks-111827?style=for-the-badge&logo=pytest&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Retrieval-111827?style=for-the-badge&logo=elasticsearch&logoColor=00BFB3" />
+<img src="https://img.shields.io/badge/Agents-1E1B4B?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Evaluation-3B0764?style=for-the-badge&logo=checkmarx&logoColor=FF4D8D" />
+
+</div>
+
+Raw operational data becomes reliable decisions only after it passes through ingestion, validation, retrieval, evidence grounding, agent controls, and evaluation.
 
 ---
 
 ### `$ ls ./flagship_systems`
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Biomedical Dataset Discovery Assistant</h3>
-      <p><b>Evidence-aware RAG over about 70K biomedical metadata records.</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=FFD43B" />
-        <img src="https://img.shields.io/badge/RAG-020617?style=flat-square&logo=openai&logoColor=00D1FF" />
-        <img src="https://img.shields.io/badge/Retrieval-020617?style=flat-square&logo=elasticsearch&logoColor=00BFB3" />
-        <img src="https://img.shields.io/badge/Evaluation-020617?style=flat-square&logo=pytest&logoColor=FF4D8D" />
-      </p>
-      <p>Normalized GDC/TCGA and cBioPortal metadata into a unified catalog, separated explicit evidence from inferred relevance, and evaluated retrieval, negative exclusion, answer quality, claim grounding, and LLM judge behavior.</p>
-      <a href="https://github.com/Jeremyt34t34t34/biomedical-dataset-discovery-assistant">
-        <img src="https://img.shields.io/badge/Open%20Repository-00D1FF?style=for-the-badge&logo=github&logoColor=020617" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>ClaimDrift</h3>
-      <p><b>Collaborative multi-agent system for scientific claim drift detection.</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Vertex%20AI-020617?style=flat-square&logo=googlecloud&logoColor=4285F4" />
-        <img src="https://img.shields.io/badge/Elastic-020617?style=flat-square&logo=elasticsearch&logoColor=00BFB3" />
-        <img src="https://img.shields.io/badge/MCP-020617?style=flat-square&logoColor=7C3AED" />
-        <img src="https://img.shields.io/badge/Pub%2FSub-020617?style=flat-square&logo=googlecloud&logoColor=FF4D8D" />
-      </p>
-      <p>Worked on a multi-agent biomedical workflow comparing preprints with published papers, with claim extraction, drift analysis, citation finding, notification, memory synthesis, schema gates, retries, and negative controls.</p>
-      <a href="https://github.com/Jeremyt34t34t34/ClaimDrift">
-        <img src="https://img.shields.io/badge/Open%20Repository-FF4D8D?style=for-the-badge&logo=github&logoColor=020617" />
-      </a>
-    </td>
-  </tr>
-</table>
+#### `biomedical-dataset-discovery-assistant`
+
+[![Open Repository](https://img.shields.io/badge/Open%20Repository-00D1FF?style=for-the-badge&logo=github&logoColor=020617)](https://github.com/Jeremyt34t34t34/biomedical-dataset-discovery-assistant)
+
+![Python](https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=FFD43B)
+![RAG](https://img.shields.io/badge/RAG-020617?style=flat-square&logo=openai&logoColor=00D1FF)
+![Retrieval](https://img.shields.io/badge/Hybrid%20Retrieval-020617?style=flat-square&logo=elasticsearch&logoColor=00BFB3)
+![Evaluation](https://img.shields.io/badge/Evaluation-020617?style=flat-square&logo=pytest&logoColor=FF4D8D)
+![Streamlit](https://img.shields.io/badge/Streamlit-020617?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+
+Evidence-aware RAG system over about **70K biomedical metadata records**. It normalizes GDC/TCGA and cBioPortal metadata, separates explicit evidence from inferred relevance, and evaluates retrieval, answer quality, negative exclusion, claim grounding, and LLM judge behavior.
+
+#### `ClaimDrift`
+
+[![Open Repository](https://img.shields.io/badge/Open%20Repository-FF4D8D?style=for-the-badge&logo=github&logoColor=020617)](https://github.com/Jeremyt34t34t34/ClaimDrift)
+
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-020617?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![Elastic](https://img.shields.io/badge/Elastic-020617?style=flat-square&logo=elasticsearch&logoColor=00BFB3)
+![MCP](https://img.shields.io/badge/MCP-020617?style=flat-square&logoColor=7C3AED)
+![Cloud Run](https://img.shields.io/badge/Cloud%20Run-020617?style=flat-square&logo=googlecloud&logoColor=00D1FF)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-020617?style=flat-square&logo=googlecloud&logoColor=FF4D8D)
+
+Collaborative multi-agent system for detecting scientific claim drift between preprints and peer-reviewed publications. The workflow uses claim extraction, drift analysis, citation finding, notification, memory synthesis, schema gates, retries, and negative controls.
 
 ---
 
-### `$ systemctl status production-data-workflows`
+### `$ systemctl status hanshow-data-workflows`
 
-```yaml
-Hanshow:
-  title: Technical Support Engineer
-  scope:
-    - 21 retail divisions
-    - 2,500+ stores
-    - 10,000+ ESL devices
-  built:
-    - Airflow workflows
-    - REST API and MySQL extraction
-    - cross-source reconciliation
-    - scheduled Excel reporting
-    - webhook alerts, retries, and recovery
-  impact:
-    - issue detection improved from days to same-day alerting
-    - manual deployment validation reduced by 40-60%
-```
+![Python](https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/SQL-020617?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Airflow](https://img.shields.io/badge/Airflow-020617?style=flat-square&logo=apacheairflow&logoColor=017CEE)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-020617?style=flat-square&logo=fastapi&logoColor=00D1FF)
+![MySQL](https://img.shields.io/badge/MySQL-020617?style=flat-square&logo=mysql&logoColor=4479A1)
+
+At Hanshow, I build and maintain Airflow-based production workflows for retail IoT operations across **21 divisions**, **2,500+ stores**, and **10,000+ ESL devices**.
+
+- Orchestrate REST API and MySQL extraction, reconciliation, scheduled reporting, retries, and webhook alerts.
+- Improve issue detection from days to same-day alerting through monitoring and anomaly checks.
+- Automate deployment validation and reduce manual validation effort by **40-60%**.
 
 ---
 
 ### `$ ./show_stack.sh --verbose`
 
-`> [Languages and Data]`
+`> languages_and_data`
 
 ![Python](https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![SQL](https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Bash](https://img.shields.io/badge/Bash-020617?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)
 ![Pandas](https://img.shields.io/badge/Pandas-020617?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
 
-`> [Data Engineering]`
+`> data_engineering`
 
 ![Airflow](https://img.shields.io/badge/Airflow-020617?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-020617?style=for-the-badge&logo=fastapi&logoColor=00D1FF)
@@ -154,14 +130,14 @@ Hanshow:
 ![Snowflake](https://img.shields.io/badge/Snowflake-020617?style=for-the-badge&logo=snowflake&logoColor=29B5E8)
 ![Databricks](https://img.shields.io/badge/Databricks-020617?style=for-the-badge&logo=databricks&logoColor=FF3621)
 
-`> [AI Engineering]`
+`> ai_engineering`
 
 ![RAG](https://img.shields.io/badge/RAG-020617?style=for-the-badge&logo=openai&logoColor=00D1FF)
 ![Hybrid Retrieval](https://img.shields.io/badge/Hybrid%20Retrieval-020617?style=for-the-badge&logo=elasticsearch&logoColor=00BFB3)
 ![Agent Workflows](https://img.shields.io/badge/Agent%20Workflows-020617?style=for-the-badge&logo=openai&logoColor=FFFFFF)
 ![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-020617?style=for-the-badge&logo=pytest&logoColor=FF4D8D)
 
-`> [Cloud and Tools]`
+`> cloud_and_tools`
 
 ![GCP](https://img.shields.io/badge/GCP-020617?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Cloud Run](https://img.shields.io/badge/Cloud%20Run-020617?style=for-the-badge&logo=googlecloud&logoColor=00D1FF)
@@ -173,46 +149,30 @@ Hanshow:
 
 ---
 
-### `$ tail -n 4 ./selected_highlights.log`
+### `$ tail -n 4 selected_highlights.log`
 
-```yaml
-Granite Telecommunications:
-  signal: 5 production tables, 26K+ records, 132 features, XGBoost, SHAP
-  theme: ML pipeline and production-style inference
-
-Secidea:
-  signal: Scrapy-Redis ETL, 1M+ records/day, about 30% throughput improvement
-  theme: distributed data engineering
-
-Shoptaki:
-  signal: Zillow API to PostgreSQL pipeline, 3-model ensemble, R2 = 0.90
-  theme: applied data science and valuation modeling
-
-Kaggle:
-  signal: Top 2%, #202 / 11,053 teams
-  theme: time-series forecasting and feature engineering
-```
+- **Granite Telecommunications:** 5 production tables, 26K+ records, 132 features, XGBoost, SHAP, production-style inference.
+- **Secidea:** Scrapy-Redis ETL, 1M+ records/day, about 30% throughput improvement.
+- **Shoptaki:** Zillow API to PostgreSQL pipeline, 3-model ensemble, R2 = 0.90.
+- **Kaggle:** Top 2%, ranked #202 / 11,053 teams.
 
 ---
 
 ### `$ cat ~/.current_focus`
 
-```yaml
-now_building:
-  - production-minded LLM systems
-  - RAG evaluation and claim grounding
-  - safer agent loops with schema gates, retries, and stopping conditions
-  - modern data platforms with Snowflake and Databricks
+<div align="center">
 
-open_to:
-  - Data Engineer roles
-  - AI Engineer roles
-  - Data and AI platform work
-  - applied LLM systems with strong evaluation
-```
+<img src="https://img.shields.io/badge/Production--minded%20LLM%20systems-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/RAG%20evaluation%20and%20claim%20grounding-111827?style=for-the-badge&logo=pytest&logoColor=FF4D8D" />
+<img src="https://img.shields.io/badge/Agent%20loops%20with%20schema%20gates-111827?style=for-the-badge&logo=checkmarx&logoColor=00D1FF" />
+<img src="https://img.shields.io/badge/Snowflake%20and%20Databricks-111827?style=for-the-badge&logo=databricks&logoColor=FF3621" />
+
+</div>
+
+<br />
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF4D8D,45:7C3AED,100:00D1FF&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF4D8D,45:7C3AED,100:00D1FF&height=115&section=footer)
 
 </div>
