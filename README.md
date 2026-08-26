@@ -195,27 +195,29 @@ Reliable > flashy
 
 I like AI systems that can say where their answer came from, what supports it, what does not, and when they should stop.
 
-## GitHub Console
+## Now Building
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Production AI Systems</h3>
+      <p>RAG applications, agent workflows, claim grounding, schema gates, retries, and evaluation pipelines.</p>
+    </td>
+    <td width="50%">
+      <h3>Modern Data Platforms</h3>
+      <p>Airflow orchestration, API ingestion, warehouse modeling, data quality checks, observability, Snowflake, and Databricks.</p>
+    </td>
+  </tr>
+</table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeremyt34t34t34&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00D1FF&icon_color=FF4D8D&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremyt34t34t34&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00D1FF&text_color=FFFFFF)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Jeremyt34t34t34&theme=tokyonight&hide_border=true&background=020617&ring=00D1FF&fire=FF4D8D&currStreakLabel=FFFFFF)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeremyt34t34t34&bg_color=020617&color=ffffff&line=00d1ff&point=ff4d8d&area=true&hide_border=true)
-
-</div>
-
-## Current Quest
+## Focus Areas
 
 ```text
-> building production-minded LLM systems
-> improving RAG evaluation and claim grounding
-> designing safer agent loops with gates, retries, and stopping conditions
-> exploring Snowflake, Databricks, and modern data platforms
+Reliable data workflows
+Evidence-grounded AI
+Retrieval and evaluation
+Agent loop reliability
+Cloud automation
 ```
 
 <div align="center">
