@@ -2,6 +2,8 @@
 
 **Data & AI engineer building systems that make evidence usable.**
 
+![Animated path from raw data to decisions](./assets/signal-path.svg)
+
 Dallas–Fort Worth · CMU Heinz College  
 [Email](mailto:haipeizhong@outlook.com) · [GitHub](https://github.com/Jeremyt34t34t34)
 
@@ -43,13 +45,18 @@ Airflow-based retail IoT workflows spanning **21 divisions, 2,500+ stores, and 1
 | **40–60%** | reduction in manual validation |
 | **Top 2%** | Kaggle finish, #202 of 11,053 teams |
 
-## How I build
+<details>
+<summary><strong>How I build reliable AI systems</strong></summary>
+
+<br />
 
 1. Make the data contract explicit.
 2. Keep evidence separate from inference.
 3. Evaluate retrieval before polishing generation.
 4. Put schema checks, retries, and timeouts at system boundaries.
 5. Make failures visible enough to debug.
+
+</details>
 
 ## Also shipped
 
