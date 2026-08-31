@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190" role="img" aria-labelledby="title desc">
+  <title id="title">From raw data to evidence-grounded decisions</title>
+  <desc id="desc">An animated signal travels through data, quality, retrieval, evidence, evaluation, and decision stages.</desc>
+  <style>
+    .label{font:600 13px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#64748b;letter-spacing:.08em}
+    .title{font:700 22px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#0f172a}
+    .line{fill:none;stroke:#cbd5e1;stroke-width:2}
+    .signal{fill:none;stroke:url(#signal);stroke-width:3;stroke-linecap:round;stroke-dasharray:80 880;animation:travel 5s linear infinite}
+    .node{fill:#fff;stroke:#94a3b8;stroke-width:2}
+    .core{fill:#0ea5e9}
+    @keyframes travel{to{stroke-dashoffset:-960}}
+    @media (prefers-color-scheme:dark){
+      .title{fill:#f8fafc}.label{fill:#94a3b8}.line{stroke:#334155}.node{fill:#0d1117;stroke:#475569}
+    }
+    @media (prefers-reduced-motion:reduce){.signal{animation:none;stroke-dasharray:none}}
+  </style>
+  <defs>
+    <linearGradient id="signal" x1="0" x2="1">
+      <stop stop-color="#0ea5e9"/>
+      <stop offset=".5" stop-color="#14b8a6"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <text class="title" x="32" y="36">data → evidence → decision</text>
+  <path class="line" d="M72 100H888"/>
+  <path class="signal" d="M72 100H888"/>
+  <g>
+    <circle class="node" cx="72" cy="100" r="9"/><circle class="core" cx="72" cy="100" r="3"/>
+    <circle class="node" cx="235" cy="100" r="9"/><circle class="core" cx="235" cy="100" r="3"/>
+    <circle class="node" cx="398" cy="100" r="9"/><circle class="core" cx="398" cy="100" r="3"/>
+    <circle class="node" cx="561" cy="100" r="9"/><circle class="core" cx="561" cy="100" r="3"/>
+    <circle class="node" cx="724" cy="100" r="9"/><circle class="core" cx="724" cy="100" r="3"/>
+    <circle class="node" cx="888" cy="100" r="9"/><circle class="core" cx="888" cy="100" r="3"/>
+  </g>
+  <g text-anchor="middle">
+    <text class="label" x="72" y="138">RAW</text>
+    <text class="label" x="235" y="138">CHECK</text>
+    <text class="label" x="398" y="138">RETRIEVE</text>
+    <text class="label" x="561" y="138">GROUND</text>
+    <text class="label" x="724" y="138">EVALUATE</text>
+    <text class="label" x="888" y="138">ACT</text>
+  </g>
+</svg>
