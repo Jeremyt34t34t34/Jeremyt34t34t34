@@ -4,7 +4,7 @@
 
 ![Animated path from raw data to decisions](./assets/signal-path.svg)
 
-Dallas–Fort Worth · CMU Heinz College  
+Dallas–Fort Worth  
 [Email](mailto:haipeizhong@outlook.com) · [GitHub](https://github.com/Jeremyt34t34t34)
 
 ---
@@ -29,7 +29,7 @@ A collaborative agent system for detecting how scientific claims change between 
 
 `Vertex AI` · `Elasticsearch` · `MCP` · `Cloud Run` · `Pub/Sub`
 
-### Hanshow production data workflows
+### Retail IoT data workflows
 
 Airflow-based retail IoT workflows spanning **21 divisions, 2,500+ stores, and 10,000+ ESL devices**. My work covers API and MySQL extraction, reconciliation, scheduled reporting, webhook alerts, deployment validation, and same-day issue detection.
 
@@ -60,9 +60,9 @@ Airflow-based retail IoT workflows spanning **21 divisions, 2,500+ stores, and 1
 
 ## Also shipped
 
-- **Granite Telecommunications** — 5 production tables, 26K+ records, 132 features, XGBoost, SHAP, and production-style inference.
-- **Secidea** — Scrapy-Redis ETL processing 1M+ records/day with about 30% higher throughput.
-- **Shoptaki** — Zillow API to PostgreSQL pipeline and a three-model ensemble reaching R² = 0.90.
+- **Telecommunications analytics** — 5 production tables, 26K+ records, 132 features, XGBoost, SHAP, and production-style inference.
+- **Large-scale web data platform** — Scrapy-Redis ETL processing 1M+ records/day with about 30% higher throughput.
+- **Real-estate analytics** — API-to-PostgreSQL pipeline and a three-model ensemble reaching R² = 0.90.
 
 ## Working with
 
